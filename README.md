@@ -1,2 +1,2 @@
-# destroytheworld
+# Destroy The World
 Devslopes guide
